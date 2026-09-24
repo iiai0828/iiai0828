@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name: Annie Lee
+
+I am currently an undergraduate student interested in remote sensing, GIS, urban–rural interaction, and deep learning. I am learning how to use computational methods to solve problems in geographic and environmental sciences.
+
 <!--
 **iiai0828/iiai0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
